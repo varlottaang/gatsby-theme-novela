@@ -41,6 +41,13 @@ const siteMetadata = {
     {
       url: `https://tripadvisor.com`,
     },
+    {
+      url: `https://notion.so`,
+    },
+    {
+      name: `mailto`,
+      url: `mailto:`,
+    },
   ],
 };
 

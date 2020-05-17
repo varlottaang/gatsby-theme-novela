@@ -7,6 +7,7 @@ import Instagram from './social/Instagram.Icon';
 import Twitter from './social/Twitter.Icon';
 import LinkedIn from './social/LinkedIn.Icon';
 import Medium from './social/Medium.Icon';
+import Notion from './social/Notion.Icon';
 import Github from './social/Github.Icon';
 import Stackoverflow from './social/Stackoverflow.Icon';
 import Unsplash from './social/Unsplash.Icon';
@@ -15,6 +16,8 @@ import Patreon from './social/Patreon.Icon';
 import Paypal from './social/Paypal.Icon';
 import DigitalOcean from './social/DigitalOcean.Icon';
 import TripAdvisor from './social/TripAdvisor.Icon';
+import Buymeacoffee from './social/Buymeacoffee.Icon';
+import Mailto from './social/Mailto.Icon';
 
 // UI
 import ChevronLeft from './ui/ChevronLeft.Icon';
@@ -36,6 +39,7 @@ export default {
   Twitter,
   LinkedIn,
   Medium,
+  Notion,
   Github,
   Stackoverflow,
   Unsplash,
@@ -44,6 +48,8 @@ export default {
   Paypal,
   DigitalOcean,
   TripAdvisor,
+  Buymeacoffee,
+  Mailto,
 
   ChevronLeft,
   Copied,

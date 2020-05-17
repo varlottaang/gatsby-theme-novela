@@ -3,6 +3,73 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.15.5](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.4...@narative/gatsby-theme-novela@0.15.5) (2020-05-12)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.4](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.3...@narative/gatsby-theme-novela@0.15.4) (2020-05-09)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.3](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.2...@narative/gatsby-theme-novela@0.15.3) (2020-05-08)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.2](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.1...@narative/gatsby-theme-novela@0.15.2) (2020-05-07)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.15.1](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.15.0...@narative/gatsby-theme-novela@0.15.1) (2020-05-06)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+# [0.15.0](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.6...@narative/gatsby-theme-novela@0.15.0) (2020-05-05)
+
+
+### Features
+
+* **blog:** add Notion in social links ([da82a09](https://github.com/narative/gatsby-theme-novela/commit/da82a0919ab23f7cdf8794febb10d9be491b7210))
+
+
+
+
+
+## [0.14.6](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.5...@narative/gatsby-theme-novela@0.14.6) (2020-05-03)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
+## [0.14.5](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.4...@narative/gatsby-theme-novela@0.14.5) (2020-05-02)
+
+**Note:** Version bump only for package @narative/gatsby-theme-novela
+
+
+
+
+
 ## [0.14.4](https://github.com/narative/gatsby-theme-novela/compare/@narative/gatsby-theme-novela@0.14.3...@narative/gatsby-theme-novela@0.14.4) (2020-04-30)
 
 **Note:** Version bump only for package @narative/gatsby-theme-novela

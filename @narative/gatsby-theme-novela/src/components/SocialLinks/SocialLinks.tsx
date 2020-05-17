@@ -24,15 +24,22 @@ const icons = {
   stackoverflow: Icons.Stackoverflow,
   youtube: Icons.YouTube,
   medium: Icons.Medium,
+  notion: Icons.Notion,
   unsplash: Icons.Unsplash,
   patreon: Icons.Patreon,
   paypal: Icons.Paypal,
   digitalocean: Icons.DigitalOcean,
   tripadvisor: Icons.TripAdvisor,
+  buymeacoffee: Icons.Buymeacoffee,
+  mailto: Icons.Mailto,
 };
 
 const getHostname = url => {
-  return new URL(url.toLowerCase()).hostname.replace('www.', '').split('.')[0];
+  return new URL(url.toLowerCase()).hostname.replace(/[.-]|www|com|net|org/g,'').split('.')[0];
+};
+
+const getServicename = url => {
+  return url.toLowerCase().split(':')[0];
 };
 
 const SocialLinks: React.FC<SocialLinksProps> = ({
@@ -44,7 +51,7 @@ const SocialLinks: React.FC<SocialLinksProps> = ({
   return (
     <>
       {links.map(option => {
-        const name = option.name || getHostname(option.url);
+        const name = option.name || getHostname(option.url) || getServicename(option.url);
         const Icon = icons[name];
         if (!Icon) {
           throw new Error(
